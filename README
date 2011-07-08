@@ -1,0 +1,21 @@
+The ultimate Plesk script:
+
+This script can be use to troubleshoot and do common tasks on plesk servers.
+
+Read the changelog in the comments of the script to see full functionality. 
+
+
+OS support: Centos, Ubuntu, Fedora
+
+Has been tested on Plesk versions 8.6 - 10.2
+
+I will continue to update it as I get better at bash scripting and 
+the more I troubleshoot plesk at my job as a server technician. 
+
+Let me know if you find any bugs. I'm sure there are some. 
+
+
+Thanks,
+Derek
+
+derekcreason@gmail.com
